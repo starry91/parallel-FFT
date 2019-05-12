@@ -48,6 +48,6 @@ For N = 100000
 # Contributers
 1. Praveen Balireddy (praveeniitkgp1994@gmail.com)
 2. Aman Joshi (amanjoshi668@gmail.com)
-3. Shubham Pokhriyal (shubham.pokhriyal@students.iiit.ac.in)
+3. Arpit Gupta(arpit.g@students.iiit.ac.in)
 
 For more details, please refer to the "IPSC_report.pdf" in the repo.
